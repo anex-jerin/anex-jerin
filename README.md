@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next JS**
 
-- 💬 Ask me about **javaScript, Node js, React js, HTML, CSS**
+- 💬 Ask me about **javaScript, Node js, React js, HTML, CSS, Mongo DB, **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
