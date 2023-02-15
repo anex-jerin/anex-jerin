@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/anexjerin" target="blank"><img src="https://img.shields.io/twitter/follow/anexjerin?logo=twitter&style=for-the-badge" alt="anexjerin" /></a> </p>
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **mySQL**
 
 - 💬 Ask me about **javaScript, Node js, React js, HTML, CSS, Mongo DB**
 
